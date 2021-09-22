@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "127.0.0.1:1883",
+    "name": "test-phx-import",
+    "platform_url": "http://127.0.0.1:9000",
+    "system_key": "cccedc940caac7cafedef9d68632",
+    "system_secret": "CCCEDC940C92A6F4EBE2C7F0B03B"
+}
